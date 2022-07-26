@@ -1,0 +1,27 @@
+form {
+    margin: 10px auto;
+    padding-top: 25px;
+    width: 50%;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+  
+btn {
+    margin-top: 15px;
+}
+  
+div-btn {
+    margin: 10px auto;
+    padding-top: 25px;
+    margin-bottom: 50px;
+    width: 10%;
+}
+
+table {
+    margin: 10px auto;
+    padding-top: 25px;
+    width: 50%;
+    background-color: floralwhite;
+}
